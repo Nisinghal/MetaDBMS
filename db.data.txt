@@ -1,0 +1,5 @@
+Vikaram             40  M
+Anuj                20  M
+Rakesh              21  M
+Rekha               25  F
+John                26  M

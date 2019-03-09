@@ -1,0 +1,16 @@
+Field: Name, Type: C, Size: 20
+Field: Age, Type: I, Size: 4
+Field: Gender, Type: C, Size: 1
+
+Finish reading data description file...
+
+The data file contains these records:
+
+Vikaram             40  M
+Anuj                20  M
+Rakesh              21  M
+Rekha               25  F
+John                26  M
+
+Find max value in the field Name
+Vikaram
